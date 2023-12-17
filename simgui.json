@@ -1,0 +1,10 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Shuffleboard/Team 6647/Auto Mode": "String Chooser",
+      "/Shuffleboard/Team 6647/Grid Placement": "String Chooser",
+      "/SmartDashboard/Field": "Field2d"
+    }
+  }
+}

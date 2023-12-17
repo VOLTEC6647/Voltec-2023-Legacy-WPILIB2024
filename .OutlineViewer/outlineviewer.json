@@ -1,0 +1,20 @@
+{
+  "Connections": {
+    "open": true
+  },
+  "NetworkTables Settings": {
+    "mode": "Client (NT4)",
+    "serverTeam": "6647"
+  },
+  "transitory": {
+    "AndromedaSwerveTable": {
+      "SwerveModule": {
+        "0": {
+          "open": true
+        },
+        "open": true
+      },
+      "open": true
+    }
+  }
+}
